@@ -1,0 +1,25 @@
+    ___ _                       _____        __                   
+   / _ \ |__   ___  _ __   ___  \_   \_ __  / _| ___   __ _  __ _ 
+  / /_)/ '_ \ / _ \| '_ \ / _ \  / /\/ '_ \| |_ / _ \ / _` |/ _` |
+ / ___/| | | | (_) | | | |  __/\/ /_ | | | |  _| (_) | (_| | (_| |
+ \/    |_| |_|\___/|_| |_|\___\____/ |_| |_|_|  \___/ \__, |\__,_|
+                                                      |___/       
+ PhoneInfoga Ver. v1.0.2
+ Coded by Sundowndev
+
+
+[!] ---- Fetching informations for 919811481101 ---- [!]
+[-] Running local scan...
+[+] International format: +91 98114 81101
+[+] Local format: 009811481101
+[+] Country found: India (+91)
+[+] City/Area: India
+[+] Carrier: Vodafone
+[+] Timezone: Asia/Calcutta
+[-] The number is valid and possible.
+[-] Running Numverify.com scan...
+[!] Numverify.com is not available
+[-] Running OVH scan...
+[-] Scan finished.
+
+
